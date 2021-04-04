@@ -1,0 +1,9 @@
+---
+title: "ABC Waters: "
+excerpt: "PUB-TMSI-Monash University project <br/><img src='/images/ABC-Waters.png'>"
+collection: portfolio
+---
+
+## Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
+
+Evaluation of the applications of Low impact development (LID) for Singapore environment. Given Singapore is such a small island stat in the tropic, with high rainfall intensity and a rather short time of concentration (of about 30 minutes), we wish to consider its applicability in Singapore. 
