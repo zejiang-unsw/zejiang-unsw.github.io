@@ -1,6 +1,6 @@
 ---
 title: "ABC Waters: "
-excerpt: "PUB-TMSI-Monash University project <br/><img src='/images/ABC-Waters.png'>"
+excerpt: "PUB-TMSI-Monash University project <br/><img src='/images/ABC-Waters.jpg'>"
 collection: portfolio
 ---
 
