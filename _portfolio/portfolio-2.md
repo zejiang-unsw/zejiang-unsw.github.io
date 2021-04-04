@@ -1,6 +1,6 @@
 ---
 title: "Climate Change: Impact on Agriculture across Southeast Asia"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/crop.png'>"
+excerpt: "Singapore-MIT Alliance project and World Bank project <br/><img src='/images/crop.png'>"
 collection: portfolio
 ---
 
