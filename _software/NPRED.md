@@ -1,10 +1,8 @@
 ---
-title: "NPRED: Nonparametric Prediction"
+title: "Predictor identifier: Nonparametric PREDiction (NPRED)"
 excerpt: "The open-source R package NPRED is used to identify the meaningful predictors to the response from a large set of potential predictors.<br/><img src='/images/mi.png'>"
 collection: software
 ---
-
-Predictor identifier: Nonparameteric PREDiction
 
 A new version based on [NPRED](http://hydrology.unsw.edu.au/download/software/NPRED) without calling Fortran codes.
 
@@ -20,5 +18,6 @@ Sharma, A., & Mehrotra, R. (2014). An information theoretic alternative to model
 
 Galelli S., Humphrey G.B., Maier H.R., Castelletti A., Dandy G.C. & Gibbs M.S. (2014). An evaluation framework for input variable selection algorithms for environmental data-driven models, *Environmental Modelling & Software*, 62, 33-51.
 
-Sharma, A., Mehrotra, R., Li, J., & Jha, S. (2016). A programming tool for nonparametric system prediction using Partial Informational Correlation and Partial Weights. *Environmental Modelling & Software*, 83, 271-275. 
+Sharma, A., Mehrotra, R., Li, J., & Jha, S. (2016). A programming tool for nonparametric system prediction using Partial Informational Correlation and Partial Weights. *Environmental Modelling & Software*, 83, 271-275.
+
 Mehrotra, R., & Sharma, A. (2006). Conditional resampling of hydrologic time series using multiple predictor variables: A K-nearest neighbour approach. *Advances in Water Resources*, 29(7), 987-999.
