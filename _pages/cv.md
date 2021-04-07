@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_ZeJIANG_UNSW.pdf),[Chi](https://zejiang-unsw.github.io/files/简历_蒋泽_新南威尔士大学.pdf))
+Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf),[Chi](https://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Chi.pdf))
 ======
 
 Education
