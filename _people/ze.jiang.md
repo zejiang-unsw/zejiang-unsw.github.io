@@ -1,5 +1,5 @@
 title: "Ze Jiang: Expertise in Hydro-climatology "
-excerpt: "<div <br/><img src='/images/profile.jpg' class="rounded"/> </div>"
+excerpt: "<div class="image-cropper"> <img src='/images/profile.jpg' class="rounded"/> </div>"
 author_profile: false
 share: false
 collection: people
