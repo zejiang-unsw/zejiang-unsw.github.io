@@ -193,13 +193,6 @@ figure {
   .fluid-width-video-wrapper {
     margin-bottom: 1em;
   }
-
-  img {
-    width: 100%;
-    border-radius: $border-radius;
-    -webkit-transition: $global-transition;
-    transition: $global-transition;
-  }
   
   .image-cropper {
 	  width: 100px;
@@ -209,7 +202,7 @@ figure {
 	  border-radius: 50%;
   }
   
-  img.rounded {
+  .rounded {
 	  width: 100px;
 	  height: 100px;
 	  position: relative;
@@ -217,6 +210,13 @@ figure {
 	  border-radius: 50%;
   }
 
+  img {
+    width: 100%;
+    border-radius: $border-radius;
+    -webkit-transition: $global-transition;
+    transition: $global-transition;
+  }
+  
   > a {
     display: block;
   }
