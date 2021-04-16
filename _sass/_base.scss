@@ -200,6 +200,14 @@ figure {
     -webkit-transition: $global-transition;
     transition: $global-transition;
   }
+  
+  img.rounded {
+	  width: 100px;
+	  height: 100px;
+	  position: relative;
+	  overflow: hidden;
+	  border-radius: 50%;
+  }
 
   > a {
     display: block;
