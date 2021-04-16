@@ -2,12 +2,12 @@
 layout: archive
 title: "Who We Are"
 permalink: /people/
-author_profile: true
+author_profile: false
 ---
 
 {% include base_path %}
 
-*Hydro-Meteo-Envir Group (HME@EDU) is part of the [Team]() of the [School](), a research and service center at the [University](). *
+Hydro-Meteo-Envir Group (HME@EDU) is part of the [Team]() of the [School](), a research and service center at the [University]().
 
 Current Members
 ======
