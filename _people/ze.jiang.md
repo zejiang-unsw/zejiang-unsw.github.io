@@ -1,6 +1,6 @@
 ---
 title: "Ze Jiang: Expertise in Hydro-climatology "
-excerpt: "<br/><img src='/images/profile.jpg'>"
+excerpt: "<br/><img src='/images/profile.jpg' max-width='50%' alt="unplash">"
 author_profile: false
 share: false
 collection: people
