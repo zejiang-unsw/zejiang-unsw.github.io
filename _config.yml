@@ -190,7 +190,9 @@ collections:
   software:
     output: true
     permalink: /:collection/:path/
-
+  people:
+    output: true
+    permalink: /:collection/:path/
 # Defaults
 defaults:
   # _posts
@@ -255,7 +257,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
-
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
