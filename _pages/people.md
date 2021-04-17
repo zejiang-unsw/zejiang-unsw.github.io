@@ -12,24 +12,23 @@ Hydro-Meteo-Envir Group (HME@EDU) is part of the [Team]() of the [School](), a r
 Current Members
 ======
 
-
 {% for post in site.people reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
-
-Alums
+Collaborators
 ======
 
 <div class="article-style">
       <br>
 <hr> 
-<p><img src="/img/maud.png" alt="">
-<strong>Maud Quéroué</strong> (PhD 2018-2021) is developing multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This is joint work with 
+<p><img src="/images/profile" alt="">
+<strong>Ze Jinag</strong> (PhD 2018-2021) is developing multispecies demographic models to study predator-prey interactions in seabirds and competition/coexistence in passerines. This is joint work with 
 <a href="http://www.cebc.cnrs.fr/ecomm/Fr_ecomm/equip_CB.html" target="_blank" rel="noopener">Christophe Barbraud</a>, 
 <a href="http://mecadev.cnrs.fr/index.php?post/Henry-Pierre-Yves" target="_blank" rel="noopener">Pierre-Yves Henry</a> and 
 <a href="https://sites.google.com/site/fredbarraquand/home" target="_blank" rel="noopener">Frédéric Barraquand</a>.</p>
 <hr> 
+
 <p><img src="/img/oksana.png" alt="">
 <strong>Oksana Grente</strong> (PhD 2018-2021) is evaluating the impact of lethal control on the French wolf population, with a special interest in social structure and livestock depredation. She will also develop an  adaptive management framework based on occupancy models. This is joint work with Christophe Duchamp and Nolwenn Hoguet-Drouet from 
 <a href="https://ofb.gouv.fr/" target="_blank" rel="noopener">French Office of Biodiversity</a>.</p>
@@ -62,5 +61,6 @@ Alums
 
 </div>
 
-Collaborators
+Alums
 ======
+
