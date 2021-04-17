@@ -15,6 +15,12 @@
         url('../fonts/academicons.woff') format('woff'),
         url('../fonts/academicons.svg') format('svg');
 }
+.avatar {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
 .ai {
   font-family: 'Academicons';
   font-weight: 400;
