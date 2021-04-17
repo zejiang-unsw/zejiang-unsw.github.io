@@ -1,6 +1,6 @@
 ---
 title: "Ze Jiang"
-excerpt: "Expertise in Hydro-climatology <div><img src='/images/profile.jpg' style='height: 100%; width: 100%; object-fit: contain'/></div>"
+excerpt: "Expertise in Hydro-climatology <img src='/images/profile.jpg' style='height: 50%; width: 50%; object-fit: contain' alt='Avatar'/>"
 author_profile: false
 share: false
 collection: people
@@ -8,7 +8,7 @@ collection: people
 
 <div>
 
-<img src='/images/profile.jpg' style='height: 100%; width: 100%; object-fit: contain'/>
+<img src='/images/profile.jpg' style='height: 20%; width: 20%; object-fit: contain' alt='Avatar'/>
 
 </div>
 
