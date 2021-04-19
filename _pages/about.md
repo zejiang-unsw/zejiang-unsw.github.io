@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. 
+This is Ze Jiang's personal homepage. <br/>
 NOTE: Some of this homepage material is still under construction.
 
 ## A short introduction
