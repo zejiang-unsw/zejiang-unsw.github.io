@@ -28,6 +28,6 @@ Collaborators
 
 
 <hr> 
-Alums
+Alumni
 ======
 
