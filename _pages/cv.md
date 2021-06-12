@@ -14,8 +14,8 @@ Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf)
 Education
 ======
 * B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.S. in HydroInformatics and Water Management, Brandenburg University of Technology, Brandenburg, Germany, 2015
-* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021 (expected)
+* M.S. in Euro Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
+* Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
 	* Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
 
 Work experience
