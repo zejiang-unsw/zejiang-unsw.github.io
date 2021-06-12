@@ -20,6 +20,10 @@ I am an engineer, hydro-climatologist and researcher. My research focuses on dro
 
 
 ## Selected Journal Publications
+Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
+
+Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *submitted to Journal of Hydrology, under review*. 
+
 Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2020). Refining Predictor Spectral Representation Using Wavelet Theory for Improved Natural System Modeling. *Water Resources Research*, 56(3), e2019WR026962. [link](https://doi.org/10.1029/2019WR026962)
