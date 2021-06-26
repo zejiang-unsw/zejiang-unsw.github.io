@@ -11,7 +11,7 @@ redirect_from:
 This is Ze Jiang's personal homepage.
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. I am currently working at [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. I am currently working in [WRC@UNSW](https://www.wrc.unsw.edu.au/).
 
 <b>RESEARCH INTEREST:</b>
 * Wavelet based time series decomposition and transformation
