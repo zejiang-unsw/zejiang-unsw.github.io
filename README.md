@@ -1,4 +1,4 @@
-# Ze Jiang (蒋泽)
+# Ze Jiang
 This is Ze Jiang's personal [homepage](https://zejiang-unsw.github.io/).
 
 ## A short introduction
