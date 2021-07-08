@@ -20,8 +20,8 @@ Education
 
 Work experience
 ======
-* Jun. 2018 - Current: Postdoctoral Research Fellow
-  * University of New South Wales, Sydney, Australia
+* Jun. 2021 - Current: Postdoctoral Research Fellow
+  * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) Models
     + CMIP decadal prediction for rainfall forecasting
