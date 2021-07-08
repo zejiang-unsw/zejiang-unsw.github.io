@@ -20,6 +20,11 @@ Education
 
 Work experience
 ======
+* Jun. 2018 - Current: Postdoctoral Research Fellow
+  * University of New South Wales, Sydney, Australia
+  * Duties included: 
+    + Bias characterisation and correction in Numerical Weather Prediction (NWP) Models
+    + CMIP decadal prediction for rainfall forecasting
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
