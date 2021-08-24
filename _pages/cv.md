@@ -22,7 +22,7 @@ Work experience
 * Jun. 2021 - Current: Postdoctoral Research Fellow
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
-    + Bias characterisation and correction in Numerical Weather Prediction (NWP) Models
+    + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
     + CMIP decadal prediction for rainfall forecasting
   * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
