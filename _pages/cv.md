@@ -79,8 +79,8 @@ Service and leadership
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
 * Reviewer for Scholarly Journals: 
   + Journal of Hydrology
+  + Frontiers in Water
   + International Journal of River Basin Management 
-  + Frontiers In Water
 
 Membership
 ======
