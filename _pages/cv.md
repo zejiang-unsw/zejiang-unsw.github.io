@@ -13,8 +13,8 @@ Download CV ([Eng](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf)
 
 Education
 ======
-* B.S. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.S. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
+* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
+* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
 * Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
 
 Work experience
@@ -25,11 +25,13 @@ Work experience
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
     + CMIP decadal prediction for rainfall forecasting
   * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
-    + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
     + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
+	+ Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
+	+ Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
   * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
 
 * Mar. 2015 - Sep. 2015: Intern
