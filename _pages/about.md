@@ -11,12 +11,21 @@ redirect_from:
 This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
 
 ## A short introduction
-I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. I am currently working in [WRC@UNSW](https://www.wrc.unsw.edu.au/).
+I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my PhD, I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
 
-<b>RESEARCH INTEREST:</b>
-* Wavelet based time series decomposition and transformation
+
+<b>Research Interests:</b>
 * Hydro-climatological modelling and forecasting
 * Climate change impact on the water cycle (e.g. floods and droughts)
+* Hydrological and water quality modelling
+* HydroInformatics and water management
+
+
+<b>Research Highlights:</b>
+* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its application in hydro-climatology
+* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
+* Quantification of future changes in drought and rice production under global warming
+* Development of index-based drought insurance for disaster risk transfer
 
 
 ## Selected Journal Publications
