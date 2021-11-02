@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [institutional homepage](https://research.unsw.edu.au/people/mr-ze-jiang). 
+This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
 
 ## A short introduction
 I am an engineer, hydro-climatologist and researcher. My research focuses on drought detection and attribution, as well as prediction using GCM simulations. I mainly use statistical tools to carry out my research works. I am also an R enthusiast. I am currently working in [WRC@UNSW](https://www.wrc.unsw.edu.au/).
