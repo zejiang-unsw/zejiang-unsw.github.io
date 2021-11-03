@@ -30,22 +30,23 @@ Work experience
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
     + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-	+ Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-	+ Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
+	  + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
+	  + Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
   * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
 
 * Mar. 2015 - Sep. 2015: Intern
   * Ingenieurgesellschaft Prof. Dr. Sieker mbH, Berlin, Germany
   * Duties included:
-    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
     + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
+    + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
   * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
   
 Research Interest
 ======
-* Wavelet based time series decomposition and transformation
 * Hydro-climatological modelling and forecasting
 * Climate change impact on the water cycle (e.g. floods and droughts)
+* Hydrological and water quality modelling
+* HydroInformatics and water management
 
 Publications
 ======
