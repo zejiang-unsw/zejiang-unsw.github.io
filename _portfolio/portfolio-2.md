@@ -8,6 +8,10 @@ collection: portfolio
 
 Study the link of future climate changes and its impacts rice crop productivity over Vietnam. The study applied climate outputs at high resolution from a regional climate model (i.e., WRF) as inputs to the DSSAT crop modelling system. Projected future rice yield and food security risk map are simulated and generated. 
 
-## Development of index-based drought insurance for sovereign disaster risk transfer, Work Bank project. 
+Please refer to Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). "Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting?" *Theoretical and Applied Climatology*. 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
+
+## Development of index-based drought insurance for sovereign disaster risk transfer, World Bank project. 
 
 Examine the usability of rainfall and temperature outputs of a regional climate model (RCM) and meteorological drought indices to develop a macro-level risk transfer product to compensate the government of Central Java, Indonesia, for drought-related disaster payments to rice farmers.
+
+Please refer to Hohl, R., Jiang, Z., Tue Vu, M., Raghavan, S. V., & Liong, S.-Y. (2020). "Using a regional climate model to develop index-based drought insurance for sovereign disaster risk transfer." *Agricultural Finance Review*. 81(1), 151-168. [link](https://doi.org/10.1108/AFR-02-2020-0020)
