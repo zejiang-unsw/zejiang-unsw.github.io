@@ -17,6 +17,20 @@ Education
 * M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
 * Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
 
+Research Interests
+======
+* Hydro-climatological modelling and forecasting
+* Climate change impact on the water cycle (e.g. floods and droughts)
+* Hydrological and water quality modelling
+* HydroInformatics and water management
+
+Research Highlights
+======
+* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
+* An open-source tool for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
+* Quantification of future changes in drought and [rice production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
+* Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
+
 Work experience
 ======
 * Jun. 2021 - Current: Postdoctoral Research Fellow
@@ -41,13 +55,6 @@ Work experience
     + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
     + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
   * Supervisor: Prof. Frank Molkenthin and Prof. Heiko Sieker
-  
-Research Interest
-======
-* Hydro-climatological modelling and forecasting
-* Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrological and water quality modelling
-* HydroInformatics and water management
 
 Publications
 ======
