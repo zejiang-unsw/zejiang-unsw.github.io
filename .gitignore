@@ -4,3 +4,4 @@ _site/
 README.html
 .Rproj.user
 _posts/2021-04-28-blog-post-2.html
+.DS_Store

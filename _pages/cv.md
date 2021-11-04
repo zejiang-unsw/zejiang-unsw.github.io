@@ -30,8 +30,9 @@ Work experience
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
     + Lead the Crop Modelling on Prediction of Rice Yield with DSSAT in Vietnam - Climate Change and Food Security Studies.
-	  + Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
-	  + Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
+	+ Involve in the Development of Index-based Drought Insurance for Sovereign Disaster Risk Transfer, World Bank Project. 
+	+ Involve in the Study on Impact of Climate Change on Inland and Coastal Flooding in Singapore, Public Utilities Board Project.
+	+ Involve in the Effectiveness of ABC Waters Design Features (Sponge Cities) for Runoff Quantity Control in Singapore, Public Utilities Board Project.
   * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
 
 * Mar. 2015 - Sep. 2015: Intern
