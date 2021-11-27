@@ -21,7 +21,7 @@ Research Interests
 ======
 * Hydro-climatological modelling and forecasting
 * Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrological and water quality modelling
+* Hydrology/Hydraulics and water quality numerical modelling
 * HydroInformatics and water management
 
 Research Highlights
