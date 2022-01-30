@@ -76,7 +76,7 @@ Teaching
   
 Languages
 ======
-Chinese, English
+Mandarin, English
 
 Skills & Expertise 
 ======
@@ -88,10 +88,13 @@ Service and leadership
 ======
 * Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
+* Reviewer Editor: 
+  + Frontiers in Water
 * Reviewer for Scholarly Journals: 
   + Journal of Hydrology
   + Frontiers in Water
   + International Journal of River Basin Management 
+  + Water
 
 Membership
 ======
