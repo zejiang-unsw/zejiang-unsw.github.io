@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://research.unsw.edu.au/people/dr-ze-jiang). 
+This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](https://www.unsw.edu.au/staff/ze-jiang). 
 
 ## A short introduction
 I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
@@ -26,7 +26,11 @@ I am a Postdoctoral Research Fellow in the School of Civil and Environmental Eng
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2021). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
+Jiang, Z., Choudhury D., & Sharma, A. (2022). Spectrally transformed CMIP6 decadal outputs to aid interannual-to-decadal precipitation prediction over Australia. *In preparation for submission to Water Resources Research*. 
+
+Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *In preparation for submission to Monthly Weather Review*. 
+
+Jiang, Z., Johnson, F., & Sharma, A. (2022). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
 
