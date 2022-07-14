@@ -30,7 +30,7 @@ Jiang, Z., Choudhury D., & Sharma, A. (2022). Spectrally transformed CMIP6 decad
 
 Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *In preparation for submission to Monthly Weather Review*. 
 
-Jiang, Z., Johnson, F., & Sharma, A. (2022). Why uncertainty matters? A new alternative to project drought for future climates. *submitted to Water Resources Research, under review*. 
+Jiang, Z., Johnson, F., & Sharma, A. (2022). A new method for combining precipitation and evapotranspiration for characterising future drought impacts. *submitted to Water Resources Research, under review*. 
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
 
