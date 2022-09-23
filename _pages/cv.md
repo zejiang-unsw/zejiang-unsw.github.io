@@ -36,6 +36,7 @@ Work experience
 * Jun. 2021 - Current: Postdoctoral Research Fellow
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
+	+ The development of Wavelet system prediction (WASP) for characterizing chaotic system
     + Drought forecasting using CMIP decadal prediction and ACCESS seasonal forecasts
     + CMIP decadal prediction for rainfall forecasting over Australia
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
@@ -90,13 +91,12 @@ Service and leadership
 * Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
 * Reviewer Editor: 
-  + Frontiers in Water
+  + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
 * Reviewer for Scholarly Journals: 
   + Journal of Hydrology
   + Frontiers in Water
   + International Journal of River Basin Management 
-  + Water
-  + Sustainability
+  + Water; Sustainability; International Journal of Environmental Research and Public Health
 
 Membership
 ======

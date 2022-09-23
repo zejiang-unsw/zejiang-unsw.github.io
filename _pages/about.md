@@ -14,7 +14,7 @@ This is Ze Jiang's personal homepage. Please also refer to my [homepage@UNSW](ht
 I am a Postdoctoral Research Fellow in the School of Civil and Environmental Engineering's [Water Research Centre@UNSW](https://www.wrc.unsw.edu.au/) working in the field of hydro-climatology. I received my Ph.D. in Water Resource Engineering from UNSW. During my Ph.D., I developed a new method, namely Wavelet System Prediction (WASP), which is able to predict sustained hydro-climatological changes. I received my B.Eng. in Environmental Engineering from Hohai University, China; I did my Joint M.Sc., named “EuroAquae - HydroInformatics and Water Management” under a partnership of five European universities (in Barcelona, Budapest, Cottbus, Newcastle/UK, and Nice). Before moving to Australia, I also worked in hydrological and crop modelling at Tropical Marine Science Institute of National University of Singapore for two years.
 
 <b>Research Interests:</b>
-* Hydro-climatological modelling and forecasting
+* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
 * Climate change impact on the water cycle (e.g. floods and droughts)
 * Hydrology/Hydraulics and water quality numerical modelling
 * HydroInformatics and water management
@@ -28,9 +28,11 @@ I am a Postdoctoral Research Fellow in the School of Civil and Environmental Eng
 ## Selected Journal Publications
 Jiang, Z., Choudhury D., & Sharma, A. (2022). Spectrally transformed CMIP6 decadal outputs to aid interannual-to-decadal precipitation prediction over Australia. *In preparation for submission to Water Resources Research*. 
 
-Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *In preparation for submission to Monthly Weather Review*. 
+Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *submitted to Monthly Weather Review, under review*. 
 
 Jiang, Z., Johnson, F., & Sharma, A. (2022). A new method for combining precipitation and evapotranspiration for characterising future drought impacts. *submitted to Water Resources Research, under review*. 
+
+Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
 
