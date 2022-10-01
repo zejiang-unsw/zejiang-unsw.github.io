@@ -32,7 +32,7 @@ Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weath
 
 Jiang, Z., Johnson, F., & Sharma, A. (2022). A new method for combining precipitation and evapotranspiration for characterising future drought impacts. *submitted to Water Resources Research, under review*. 
 
-Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
+Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, 49(19), e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
 
