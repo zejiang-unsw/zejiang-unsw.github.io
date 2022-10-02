@@ -19,7 +19,7 @@ Education
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting
+* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
 * Climate change impact on the water cycle (e.g. floods and droughts)
 * Hydrology/Hydraulics and water quality numerical modelling
 * HydroInformatics and water management
