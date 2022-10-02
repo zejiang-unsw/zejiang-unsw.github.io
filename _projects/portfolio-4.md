@@ -1,7 +1,7 @@
 ---
 title: "ABC Waters: Low impact development (LID) for Singapore environment"
 excerpt: "PUB-TMSI-Monash University project <br/><img src='/images/ABC-Waters.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 ## Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.

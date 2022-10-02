@@ -1,7 +1,7 @@
 ---
 title: "Climate Change: Impact on urban flooding in Singapore"
 excerpt: "Public Utilities Board (PUB) project <br/><img src='/images/Floods-in-Singapore.jpg'>"
-collection: portfolio
+collection: projects
 ---
 
 ## Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.

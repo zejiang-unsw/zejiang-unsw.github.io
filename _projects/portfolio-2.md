@@ -1,7 +1,7 @@
 ---
 title: "Climate Change: Impact on Agriculture across Southeast Asia"
 excerpt: "Singapore-MIT Alliance project and World Bank project <br/><img src='/images/crop.png'>"
-collection: portfolio
+collection: projects
 ---
 
 ## DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
