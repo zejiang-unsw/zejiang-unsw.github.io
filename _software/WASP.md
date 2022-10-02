@@ -14,12 +14,12 @@ The wavelet-based variance transformation method is used for system modelling an
 ## Requirements
 <pre>
 Dependencies:
-  waveslim, stats, tidyr, ggplot2, sp
+	waveslim, stats, tidyr, ggplot2, sp
 
 Suggest:
-    zoo, readr,
-    cowplot, SPEI, FNN, 
-    NPRED, synthesis, fitdistrplus
+	zoo, readr,
+	cowplot, SPEI, FNN, 
+	NPRED, synthesis, fitdistrplus
 </pre>
 
 ## Installation

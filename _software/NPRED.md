@@ -7,11 +7,28 @@ collection: software
 
 A new version based on [NPRED](http://hydrology.unsw.edu.au/download/software/NPRED) without calling Fortran codes.
 
+## Requirements
+<pre>
+Dependencies:
+	stats
+	
+Suggests: 
+    zoo, SPEI,
+    WASP, synthesis,
+    testthat, devtools
+</pre>
+
 ## Installation
 You can install the package via devtools from [GitHub](https://github.com/) with:
 
 ```r
 devtools::install_github("zejiang-unsw/NPRED")
+```
+
+or via CRAN with: 
+
+``` r
+install.packages("NPRED")
 ```
 
 ## Citations

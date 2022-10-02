@@ -10,10 +10,10 @@ An open-source tool for generating synthetic data from statistical models.
 ## Requirements
 <pre>
 Dependencies:
-  stats, MASS
+	stats, MASS
 
 Suggest:
-  testthat, devtools
+	testthat, devtools
 </pre>
 
 ## Installation

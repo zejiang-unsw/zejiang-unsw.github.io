@@ -9,6 +9,9 @@ main:
   - title: "Projects"
     url: /projects/
 
+  - title: "Software"
+    url: /software/
+    
   - title: "Teaching"
     url: /teaching/   
     
@@ -17,9 +20,6 @@ main:
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Software"
-    url: /software/
 
   # - title: "Group"
   #   url: /people/
