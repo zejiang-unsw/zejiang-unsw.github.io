@@ -45,4 +45,4 @@ Jiang, Z., Sharma, A., & Johnson, F. (2019). Assessing the sensitivity of hydro-
 Jiang, Z., Raghavan, S. V., Hur, J., Sun, Y., Liong, S.-Y., Nguyen, V. Q., & Van Pham Dang, T. (2019). Future changes in rice yields over the Mekong River Delta due to climate change-Alarming or alerting? *Theoretical and Applied Climatology*, 137(1), 545-555. [link](https://doi.org/10.1007/s00704-018-2617-z)
 
 ## For more information
-More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_Ze JIANG_UNSW_Eng.pdf).
+More info about Ze Jiang can be found in [CV](https://zejiang-unsw.github.io/cv/) or [downloaded CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf).

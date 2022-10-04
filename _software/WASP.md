@@ -24,13 +24,13 @@ Suggest:
 
 ## Installation
 
-You can install the package via devtools from [GitHub](https://github.com/) with:
+You can install the package via devtools from [GitHub](https://github.com/zejiang-unsw/WASP) with:
 
 ``` r
 devtools::install_github("zejiang-unsw/WASP", dependencies = TRUE)
 ```
 
-or via CRAN with: 
+or via [CRAN](https://cran.r-project.org/web/packages/WASP/index.html) with: 
 
 ``` r
 install.packages("WASP")
