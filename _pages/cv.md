@@ -8,7 +8,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download [CV] (http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
+Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
 ======
 
 Education
