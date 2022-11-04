@@ -37,8 +37,8 @@ Work experience
 * Jun. 2021 - Current: Postdoctoral Research Fellow
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
-	+ The development of Wavelet system prediction (WASP) for characterizing chaotic system
-    + Drought forecasting using CMIP decadal prediction and ACCESS seasonal forecasts
+	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
+    + Hydro-climatological forecasting using CMIP decadal prediction and ACCESS seasonal forecasts
     + CMIP decadal prediction for rainfall forecasting over Australia
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
   * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
@@ -92,6 +92,7 @@ Service and leadership
 ======
 * Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
+* Topic Coordinator for [Special Issue at Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
 * Reviewer for Scholarly Journals: 
