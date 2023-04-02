@@ -97,13 +97,14 @@ Service and leadership
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
 * Reviewer for Scholarly Journals: 
   + Journal of Hydrology
-  + Frontiers in Water
   + International Journal of River Basin Management 
-  + Water; Sustainability; International Journal of Environmental Research and Public Health
+  + Weather and Climate Extremes; Journal of Applied Meteorology and Climatology
+  + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
 
 Membership
 ======
-* American Geosciences Union (AGU)
+* American Geophysical Union (AGU)
+* European Geosciences Union (EGU) 
 * Asia Oceania Geosciences Society (AOGS)
 * International Commission of Statistical Hydrology (ICSH-IAHS)
 * Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
