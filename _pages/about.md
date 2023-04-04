@@ -21,7 +21,7 @@ Ze Jiang is a researcher from the Water Research Centre at UNSW who specializes 
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
-Jiang, Z., & Johnson, F. (2022). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *submitted to Monthly Weather Review, under review*. 
+Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review, accepted*. 
 
 Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, 49(19), e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
 
