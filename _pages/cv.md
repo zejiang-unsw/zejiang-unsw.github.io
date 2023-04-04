@@ -20,21 +20,22 @@ Education
 Research Interests
 ======
 * Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
+* Postprocessing techniques for correcting bias in numerical weather predictions (e.g. Wavelet-based quantile mapping)
 * Climate change impact on the water cycle (e.g. floods and droughts)
-* Hydrology/Hydraulics and water quality numerical modelling
-* HydroInformatics and water management
+* Hydrology/Hydraulics and water quality modelling
+* Hydro-Informatics and water management
 
 Research Highlights
 ======
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 * An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
 * Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* [Postprocessing techniques](https://doi.org/10.1029/2021GL092953) for correcting climate model simulations in the [time-frequency domain](https://doi.org/10.1029/2022GL100550)
+* *Postprocessing techniques* for correcting bias in [numerical weather predictions]() & *climate model simulations* ([Paper 1] (https://doi.org/10.1029/2021GL092953)and [Paper 2](https://doi.org/10.1029/2022GL100550)) in the time-frequency domain
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 Work experience
 ======
-* Jun. 2021 - Current: Postdoctoral Research Fellow
+* Jun. 2021 - Current: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
 	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
@@ -58,6 +59,14 @@ Work experience
     + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
     + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
   * Supervisor: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
+
+Awards & honors
+======
+* 2023 Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
+* 2021 Postdoctoral Writing Fellowship funded by UNSW
+* 2018 University International Postgraduate Award (UIPA) funded by UNSW
+* 2013 Erasmus Mundus Scholarship Award by European Union
+* 2010 National Undergraduate Mathematical Contest in Modeling (Provincial Award)
 
 Publications
 ======
