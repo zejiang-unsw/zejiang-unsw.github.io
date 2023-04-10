@@ -29,8 +29,8 @@ Research Highlights
 ======
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 * An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
+* *Postprocessing techniques* for correcting bias in [numerical weather predictions]() in the time-frequency domain
 * Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
-* *Postprocessing techniques* for correcting bias in [numerical weather predictions]() and *climate model simulations* ([Paper 1](https://doi.org/10.1029/2021GL092953) and [Paper 2](https://doi.org/10.1029/2022GL100550)) in the time-frequency domain
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 Work experience
@@ -58,15 +58,15 @@ Work experience
   * Duties included:
     + Lead the Development of the Time-Area Function Model Based on QGIS Environment for Stormwater Management.
     + Involve in a Project in Saudi Arabia on Flood Modelling and Mitigation of Hafar Al-Batin City.   
-  * Supervisor: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
+  * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
 
 Awards & honors
 ======
-* 2023 Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
-* 2021 Postdoctoral Writing Fellowship funded by UNSW
-* 2018 University International Postgraduate Award (UIPA) funded by UNSW
-* 2013 Erasmus Mundus Scholarship Award by European Union
-* 2010 National Undergraduate Mathematical Contest in Modeling (Provincial Award)
+* 2023, Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
+* 2021, Postdoctoral Writing Fellowship funded by UNSW
+* 2018, University International Postgraduate Award (UIPA) funded by UNSW
+* 2013, Erasmus Mundus Scholarship Award by European Union
+* 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
 
 Publications
 ======
