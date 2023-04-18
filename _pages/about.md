@@ -21,13 +21,9 @@ Ze Jiang is a research associate from the Water Research Centre at UNSW who spec
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
-Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
-
-Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2022). Correcting systematic bias in climate model simulations in the time-frequency domain. *Geophysical Research Letters*, 49(19), e2022GL100550. [link](https://doi.org/10.1029/2022GL100550)
+Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, in press. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
-
-Kusumastuti, C., Jiang, Z., Mehrotra R., & Sharma, A. (2021). A signal processing approach to correct systematic bias in trend and variability in climate model simulations. *Geophysical Research Letters*, 48(13), e2021GL092953. [link](https://doi.org/10.1029/2021GL092953)
 
 Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. [link](https://doi.org/10.1016/j.envsoft.2020.104907)
 

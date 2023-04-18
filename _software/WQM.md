@@ -37,7 +37,7 @@ or download via [figshare](https://doi.org/10.6084/m9.figshare.21903033)
 
 
 # Citation
-Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. Monthly Weather Review. doi:https://doi.org/10.1175/MWR-D-22-0217.1
+Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. Monthly Weather Review, in press. doi:https://doi.org/10.1175/MWR-D-22-0217.1
 
 
 # Code for reproducible results in the paper
