@@ -12,6 +12,8 @@ PROFILE:
 
 
 ## Selected Journal Publications
+Jiang, Z., & Johnson, F. (2023). "A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain." Monthly Weather Review. in press. https://doi.org/10.1175/MWR-D-22-0217.1
+
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. doi:https://doi.org/10.1016/J.JHYDROL.2021.126816
 
 Jiang, Z., Rashid, M. M., Johnson, F., & Sharma, A. (2020). A wavelet-based tool to modulate variance in predictors: An application to predicting drought anomalies. *Environmental Modelling & Software*, 135, 104907. doi:https://doi.org/10.1016/j.envsoft.2020.104907
