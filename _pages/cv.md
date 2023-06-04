@@ -35,6 +35,10 @@ Research Highlights
 
 Work experience
 ======
+* May 2022 - Current: Visiting Research Fellow
+  * Helmholtz-Centre Potsdam - German Research Centre GFZ, Potsdam, Brandenburg, Germany
+  * Duties included: 
+	+ Climate-informed Flood Frequency Analysis under a changing climate
 * Jun. 2021 - Current: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
