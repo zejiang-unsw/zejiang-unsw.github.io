@@ -39,6 +39,7 @@ Work experience
   * Helmholtz-Centre Potsdam - German Research Centre GFZ, Potsdam, Brandenburg, Germany
   * Duties included: 
 	+ Climate-informed Flood Frequency Analysis under a changing climate
+  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
 * Jun. 2021 - Current: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
