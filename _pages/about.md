@@ -17,10 +17,12 @@ Ze Jiang is a research associate from the University of New South Wales who spec
 * Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydro-climatology
 * An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
 * Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) and [software](https://zejiang-unsw.github.io/software/WQM/) for correcting bias in Numerical Weather Predictions in the time-frequency domain
-* Quantification of future changes in drought and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
+* Quantification of future changes in [drought](xxx) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
+Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, accepted. [link](xxx)
+
 Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, in press. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
