@@ -36,7 +36,7 @@ Research Highlights
 Professional experience
 ======
 * May 2022 - Current: Visiting Research Fellow
-  * Helmholtz-Centre Potsdam - German Research Centre GFZ, Potsdam, Brandenburg, Germany
+  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
   * Duties included: 
 	+ Climate-informed Flood Frequency Analysis under a changing climate
   * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
