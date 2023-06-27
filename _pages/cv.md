@@ -35,7 +35,7 @@ Research Highlights
 
 Professional experience
 ======
-* May 2022 - Current: Visiting Research Fellow
+* May 2022 - Current: Scientist
   * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
   * Duties included: 
 	+ Climate-informed Flood Frequency Analysis under a changing climate
