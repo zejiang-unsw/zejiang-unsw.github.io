@@ -35,19 +35,21 @@ Research Highlights
 
 Professional experience
 ======
-* May 2022 - Current: Scientist
-  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
-  * Duties included: 
-	+ Climate-informed Flood Frequency Analysis under a changing climate
-  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
 * Jun. 2021 - Current: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
 	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
-    + Hydro-climatological forecasting using CMIP decadal prediction and ACCESS seasonal forecasts
+    + Hydro-climatological forecasting using CMIP decadal and ACCESS seasonal forecasts
     + Interannual rainfall forecasting with CMIP6 decadal projections over Australia
     + Bias characterisation and correction in Numerical Weather Prediction (NWP) models
   * Supervisors: Prof. [Ashish Sharma](https://scholar.google.com.au/citations?user=C_9ndbcAAAAJ&hl=en) and A/Prof. [Fiona Johnson](https://scholar.google.com.au/citations?user=PYu5v4YAAAAJ&hl=en)
+
+* Aug. 2023 - Current: Guest Scientist
+* May 2023 - Jul. 2023: Scientist
+  * Helmholtz-Centre Potsdam - German Research Centre (GFZ), Potsdam, Brandenburg, Germany
+  * Duties included: 
+	+ Climate-informed Flood Frequency Analysis under a changing climate
+  * Supervisor: Prof. Dr. [Bruno Merz](https://www.gfz-potsdam.de/en/staff/bruno.merz/sec44)
 
 * Nov. 2015 - Feb. 2018: Research Assistant/Engineer
   * Tropical Marine Science Institute, National University of Singapore, Singapore
