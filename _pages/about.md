@@ -23,7 +23,7 @@ Ze Jiang is a research associate from the University of New South Wales who spec
 ## Selected Journal Publications
 Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11, e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
 
-Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, in press. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
+Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, 151(8): 1909-1925. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
 
 Jiang, Z., Sharma, A., & Johnson, F. (2021). Variable transformations in the spectral domain – Implications for hydrologic forecasting. *Journal of Hydrology*, 603, 126816. [link](https://doi.org/10.1016/j.jhydrol.2021.126816)
 
