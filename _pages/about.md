@@ -21,7 +21,7 @@ Ze Jiang is a research associate from the University of New South Wales who spec
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Selected Journal Publications
-Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11, e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
+Jiang, Z., Johnson, F., & Sharma, A. (2023). Do derived drought indices better characterize future drought change? *Earth's Future*, 11(7), e2022EF003350. [link](https://doi.org/10.1029/2022EF003350)
 
 Jiang, Z., & Johnson, F. (2023). A New Method for Postprocessing Numerical Weather Predictions Using Quantile Mapping in the Frequency Domain. *Monthly Weather Review*, 151(8): 1909-1925. [link](https://doi.org/10.1175/MWR-D-22-0217.1)
 
