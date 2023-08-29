@@ -55,7 +55,7 @@ Professional experience
   * Tropical Marine Science Institute, National University of Singapore, Singapore
   * Duties included: 
 	+ DSSAT crop modeling of future rice yield in Vietnam under climate change, Singapore-MIT Alliance project.
-	+ Development of index-based drought insurance for sovereign disaster risk transfer, World Bank project. 
+	+ Development of index-based drought insurance for sovereign disaster risk transfer, International Finance Corporation, World Bank project. 
 	+ Impact of climate change on inland and coastal flooding in Singapore, Public Utilities Board (PUB) project.
 	+ Effectiveness of ABC Waters design features in residential developments, PUB-TMSI-Monash University project.
   * Supervisor: Prof. [Shie-Yui Liong](https://scholar.google.com.au/citations?user=PvpaEVUAAAAJ&hl=en)
