@@ -71,6 +71,7 @@ Awards & honors
 ======
 * 2023, Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
 * 2021, Postdoctoral Writing Fellowship funded by UNSW
+* 2019, OzEWEX Summer Institute Scholarship
 * 2018, University International Postgraduate Award (UIPA) funded by UNSW
 * 2013, Erasmus Mundus Scholarship Award by European Union
 * 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
