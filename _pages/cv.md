@@ -107,8 +107,8 @@ Skills & Expertise
 
 Service and leadership
 ======
-* Contribute to First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
+* Contribute to the First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
+* Contribute to the Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
 * Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
