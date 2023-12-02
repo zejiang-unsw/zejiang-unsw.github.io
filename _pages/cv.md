@@ -77,8 +77,8 @@ Awards & Honors
 
 Grants & Fellowships
 ======
-2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
-2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
+* 2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
+* 2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
 
 Publications
 ======
