@@ -19,8 +19,8 @@ Education
 
 Research Interests
 ======
-* Hydro-climatological modelling and forecasting (e.g. Wavelet System Prediction)
-* Postprocessing techniques for correcting bias in numerical weather predictions (e.g. Wavelet-based quantile mapping)
+* Hydro-climate extremes modelling and forecasting (e.g. Wavelet System Prediction)
+* Postprocessing techniques for correcting bias in climate and weather prediction models
 * Climate change impact on the water cycle (e.g. floods and droughts)
 * Hydrology/Hydraulics and water quality modelling
 * Hydro-Informatics and water management
@@ -33,7 +33,7 @@ Research Highlights
 * Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
-Professional experience
+Professional Experience
 ======
 * Jun. 2021 - Current: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
@@ -67,14 +67,18 @@ Professional experience
     + Flood modelling and mitigation of Hafar Al-Batin city in Saudi Arabia.   
   * Supervisors: Prof. [Frank Molkenthin](https://www.b-tu.de/fg-hydrologie/team/mitarbeiter/apl-prof-frank-molkenthin) and Prof. [Heiko Sieker](https://www.sieker.de/aktuelles/news/heiko-sieker-honorarprofessor-an-der-tu-berlin-143.html?no_cache=1)
 
-Awards & honors
+Awards & Honors
 ======
-* 2023, Helmholtz Visiting Researcher Grant by Helmholtz Association of German Research Centers
-* 2021, Postdoctoral Writing Fellowship funded by UNSW
+* 2021, Engineering Faculty Postdoctoral Writing Fellowship funded by UNSW
 * 2019, OzEWEX Summer Institute Scholarship
 * 2018, University International Postgraduate Award (UIPA) funded by UNSW
 * 2013, Erasmus Mundus Scholarship Award by European Union
 * 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
+
+Grants & Fellowships
+======
+2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
+2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
 
 Publications
 ======
@@ -105,7 +109,7 @@ Skills & Expertise
 * Programming Skills: R, C/C++, and Python in both Unix and Windows systems.
 * Rich experience in modeling and GIS, using MIKE, SWMM, DSSAT, and QGIS.
 
-Service and leadership
+Service & Leadership
 ======
 * Contribute to the First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
 * Contribute to the Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
