@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ze Jiang"
+title                    : "Dr. "
 title_separator          : "-"
 name                     : &name "Ze Jiang"
-description              : &description "Researcher in WRC@UNSW, Sydney, Australia"
+description              : &description "ARC Industry Fellow | Research Associate, Sydney, Australia"
 url                      : https://zejiang-unsw.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zejiang-unsw.github.io"
@@ -82,7 +82,7 @@ analytics:
 author: 
   name             : "Ze Jiang"
   avatar           : "profile.jpg"
-  bio              : "Researcher in WRC@UNSW, specialised in statistical hydrology"
+  bio              : "ARC Industry Fellow | Research Associate"
   location         : "Sydney, Australia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
