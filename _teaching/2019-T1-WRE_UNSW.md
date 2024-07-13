@@ -11,4 +11,4 @@ location: "Sydney, Australia"
 * Position: Teaching Assistant 
 * Role: Demonstrator and Tutor
 * Number of students: 610
-* Course Profile: [Download](https://vm.civeng.unsw.edu.au/courseprofiles/2019/2019-T1_CVEN3501x7193.pdf)
+* Course Profile: [Handbook](https://www.handbook.unsw.edu.au/undergraduate/courses/2024/CVEN3501)
