@@ -69,10 +69,11 @@ Professional Experience
 
 Awards & Honors
 ======
-* 2021, Engineering Faculty Postdoctoral Writing Fellowship funded by UNSW
+* 2021, Faculty of Engineering Postdoctoral Writing Fellowship funded by UNSW
 * 2019, OzEWEX Summer Institute Scholarship
 * 2018, University International Postgraduate Award (UIPA) funded by UNSW
-* 2013, Erasmus Mundus Scholarship Award by European Union
+* 2013, Erasmus Mundus Scholarship Award by European Union (EU)
+* 2012, Outstanding graduate of Hohai University, Nanjing
 * 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
 
 Grants & Fellowships
@@ -111,8 +112,8 @@ Skills & Expertise
 
 Service & Leadership
 ======
-* Contribute to the First Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6) as a group reviewer
-* Contribute to the Second Order Draft of IPCC 6th Assessment Report (SOD-WGI-AR6) as a group reviewer
+* Contribute to the First/Second Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6 and SOD-WGI-AR6) as a group reviewer
+* AOGS Hydrological Sciences Session (HS13) main convener: Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate
 * Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
