@@ -113,14 +113,14 @@ Skills & Expertise
 Service & Leadership
 ======
 * Contribute to the First/Second Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6 and SOD-WGI-AR6) as a group reviewer
-* AOGS Hydrological Sciences Session (HS13) main convener: Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate
+* AOGS Hydrological Sciences Session (HS13) main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/society/public.asp?page=SessionList_24.asp)
 * Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
 * Reviewer for Scholarly Journals: 
-  + Journal of Hydrology
+  + Journal of Hydrology, Environmental Modelling & Software, and Weather and Climate Extremes
   + International Journal of River Basin Management 
-  + Weather and Climate Extremes; Journal of Applied Meteorology and Climatology
+  + Journal of Applied Meteorology and Climatology
   + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
 
 Membership
@@ -128,5 +128,6 @@ Membership
 * American Geophysical Union (AGU)
 * European Geosciences Union (EGU) 
 * Asia Oceania Geosciences Society (AOGS)
+* International Union of Geodesy and Geophysics (IUGG)
 * International Commission of Statistical Hydrology (ICSH-IAHS)
 * Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
