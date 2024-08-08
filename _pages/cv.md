@@ -33,6 +33,12 @@ Research Highlights
 * Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
+Grants & Fellowships
+======
+* 2024-26, **Australian Research Council Industry Fellowship (Early Career)**  ($308K AUD, Chief Investigator), ARC and WaterNSW. Title: A Decadal Roadmap for Water Security and Resource Management.
+* 2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, Chief Investigator), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
+* 2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, Chief Investigator), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
+
 Professional Experience
 ======
 * Jun. 2021 - Current: Research Associate
@@ -75,11 +81,6 @@ Awards & Honors
 * 2013, Erasmus Mundus Scholarship Award by European Union (EU)
 * 2012, Outstanding graduate of Hohai University, Nanjing
 * 2010, National Undergraduate Mathematical Contest in Modeling (Provincial Award)
-
-Grants & Fellowships
-======
-* 2023-24, **Global Research and Innovation Partnerships (GRIP)** (~$20K AUD, PI), UNSW GLOBAL DIVISION. Title: Index-based Insurance for Agriculture Risk Transfer under a Changing Climate. 
-* 2023, **Helmholtz Visiting Researcher Grant** (~$20K EUR, PI), Helmholtz Association of German Research Centers. Title: A novel method to estimate flood extremes using spectrally transformed climate information.
 
 Publications
 ======
