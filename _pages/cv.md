@@ -114,7 +114,7 @@ Skills & Expertise
 Service & Leadership
 ======
 * Contribute to the First/Second Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6 and SOD-WGI-AR6) as a group reviewer
-* AOGS Hydrological Sciences Session (HS13) main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/society/public.asp?page=SessionList_24.asp)
+* AOGS Hydrological Sciences Session (HS13) main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/aogs2024/public.asp?page=sessions_and_conveners.asp)
 * Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
