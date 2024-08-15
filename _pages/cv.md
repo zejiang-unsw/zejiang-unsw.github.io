@@ -114,7 +114,8 @@ Skills & Expertise
 Service & Leadership
 ======
 * Contribute to the First/Second Order Draft of IPCC 6th Assessment Report (FOD-WGII-AR6 and SOD-WGI-AR6) as a group reviewer
-* AOGS Hydrological Sciences Session (HS13) main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/aogs2024/public.asp?page=sessions_and_conveners.asp)
+* AOGS2024 Hydrological Sciences Session main convener: [Statistical Methods in Assessing Hydroclimate Extremes Under Changing Climate](https://www.asiaoceania.org/aogs2024/public.asp?page=sessions_and_conveners.asp)
+* International Conference on Hydroinformatics (HIC2024) main convener: [SS10 Climate Change Impacts on Urban Flooding: Challenges and Innovative Solutions](https://hic2024.scimeeting.cn/en/web/program/1661?class=13512&hall_id=0&date_id=0&is_satellite=0)
 * Topic Coordinator for a [Special Issue of Frontiers in Marine Science](https://www.frontiersin.org/research-topics/46827/toxicological-endpoints-and-bioavailability-of-emerging-contaminants-and-their-impacts-on-marine-nut)
 * Reviewer Editor: 
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
