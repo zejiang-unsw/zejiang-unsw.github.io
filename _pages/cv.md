@@ -13,9 +13,9 @@ Download [CV](http://zejiang-unsw.github.io/files/CV_ZeJIANG.pdf)
 
 Education
 ======
-* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
-* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
 * Ph.D. in Water Resources Engineering, University of New South Wales, Sydney, Australia, 2021
+* M.Sc. in Hydro-Informatics and Water Management, Partnership of five European Universities, 2015
+* B.Eng. in Environmental Engineering, Hohai University, Nanjing, China, 2012
 
 Research Interests
 ======
@@ -41,7 +41,8 @@ Grants & Fellowships
 
 Professional Experience
 ======
-* Jun. 2021 - Current: Research Associate
+* Jan. 2025 - Current: Lecturer
+* Jun. 2021 - Dec. 2024: Research Associate
   * Water Research Centre, University of New South Wales, Sydney, Australia
   * Duties included: 
 	+ The development of Wavelet System Prediction (WASP) for characterizing chaotic system
@@ -121,7 +122,7 @@ Service & Leadership
   + Frontiers in Water (Sections: Water and Climate; Water and Hydrocomplexity)
 * Reviewer for Scholarly Journals: 
   + Journal of Hydrology, Environmental Modelling & Software, and Weather and Climate Extremes
-  + International Journal of River Basin Management 
+  + Geomatics, Natural Hazards and Risk and International Journal of River Basin Management 
   + Journal of Applied Meteorology and Climatology
   + Frontiers in Water; Water; Sustainability; International Journal of Environmental Research and Public Health
 
@@ -131,5 +132,6 @@ Membership
 * European Geosciences Union (EGU) 
 * Asia Oceania Geosciences Society (AOGS)
 * International Union of Geodesy and Geophysics (IUGG)
+* International Association of Hydrological Sciences (IAHS)
 * International Commission of Statistical Hydrology (ICSH-IAHS)
 * Modeling and Simulation Society of Australia and New Zealand (MSSANZ)
