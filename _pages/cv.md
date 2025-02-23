@@ -27,7 +27,7 @@ Research Interests
 
 Research Highlights
 ======
-* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [application](https://doi.org/10.1016/j.jhydrol.2021.126816) in hydroclimate extremes modelling and forecasting
+* Development of [spectral transformation](https://doi.org/10.1029/2019WR026962) and its [applications](https://zejiang-unsw.github.io/publications/) in hydroclimate extremes modelling and forecasting
 * An [open-source tool](https://cran.r-project.org/web/packages/WASP/index.html) for improved system modelling: [Wavelet System Prediction (WASP)](https://doi.org/10.1016/j.envsoft.2020.104907)
 * Development of a [postprocessing method](https://doi.org/10.1175/MWR-D-22-0217.1) for correcting bias in Numerical Weather Predictions in the time-frequency domain
 * Quantification of future changes in [drought](https://doi.org/10.1029/2022EF003350) and [agricultural production](https://doi.org/10.1007/s00704-018-2617-z) under global warming
