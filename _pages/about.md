@@ -21,7 +21,7 @@ Dr Ze Jiang is an Australian Research Council (ARC) Early Career Industry Fellow
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Recent works
-Jiang, Z., Choudhury, D., & Sharma, A. (2025). Decadal Drought Prediction via Spectral Transformation of Projected Sea Surface Temperatures. Journal of Hydrology X, Under Review.
+Jiang, Z. & Sharma, A. (2025). Decadal Drought Prediction via Spectral Transformation of Projected Sea Surface Temperatures. Journal of Hydrology X, Under Review.
 
 Jiang, Z., Choudhury, D., & Sharma, A. (2025). Spectrally transformed CMIP6 decadal projections improve interannual rainfall forecasts. Journal of Hydrology, 655, 132870. [link](https://doi.org/10.1016/j.jhydrol.2025.132870)
 
