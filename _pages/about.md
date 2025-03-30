@@ -23,7 +23,7 @@ Dr Ze Jiang is an Australian Research Council (ARC) Early Career Industry Fellow
 ## Recent works
 Jiang, Z. Merz B. & Sharma, A. (2025). Spectrally transformed hydroclimatic covariates improve seasonal flood forecasting. *Geophysical Research Letters*, Under Review.
 
-Jiang, Z. & Sharma, A. (2025). Decadal Drought Prediction via Spectral Transformation of Projected Sea Surface Temperatures. *Journal of Hydrology X*, 100203. [link](https://doi.org/10.1016/j.hydroa.2025.100203)
+Jiang, Z. & Sharma, A. (2025). Decadal Drought Prediction via Spectral Transformation of Projected Sea Surface Temperatures. *Journal of Hydrology X*, 27, 100203. [link](https://doi.org/10.1016/j.hydroa.2025.100203)
 
 Jiang, Z., Choudhury, D., & Sharma, A. (2025). Spectrally transformed CMIP6 decadal projections improve interannual rainfall forecasts. *Journal of Hydrology*, 655, 132870. [link](https://doi.org/10.1016/j.jhydrol.2025.132870)
 
