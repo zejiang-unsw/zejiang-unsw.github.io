@@ -21,6 +21,8 @@ Dr Ze Jiang is an Australian Research Council (ARC) Early Career Industry Fellow
 * Development of [index-based drought insurance](https://doi.org/10.1108/AFR-02-2020-0020) for disaster risk transfer
 
 ## Recent works
+Jiang, Z., Sharma, A. & Kim，S. (2025). Can merging in the frequency domain improve multi-source satellite products? *Geophysical Research Letters*, Under Review.
+
 Jiang, Z., Merz B. & Sharma, A. (2025). Spectrally transformed hydroclimatic covariates improve seasonal flood forecasting. *Geophysical Research Letters*, Under Review.
 
 Jiang, Z. & Sharma, A. (2025). Decadal Drought Prediction via Spectral Transformation of Projected Sea Surface Temperatures. *Journal of Hydrology X*, 27, 100203. [link](https://doi.org/10.1016/j.hydroa.2025.100203)
